@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ee0209ac.css",
+    "main.js": "/Portfolio/static/js/main.ea2d13a4.js",
+    "static/media/Instagram.png": "/Portfolio/static/media/Instagram.8e408da00539cdef4629.png",
+    "static/media/Basma.jpeg": "/Portfolio/static/media/Basma.7098d1b3226f84b1aa00.jpeg",
+    "static/media/MongoDB.png": "/Portfolio/static/media/MongoDB.41e505b098e3087319b8.png",
+    "static/media/Assembly.png": "/Portfolio/static/media/Assembly.02c36692fb72a0b24ea8.png",
+    "static/media/github.png": "/Portfolio/static/media/github.44731802811b402e5abb.png",
+    "static/media/ECPC.png": "/Portfolio/static/media/ECPC.542c5d7dd722572a7533.png",
+    "static/media/PHP.png": "/Portfolio/static/media/PHP.4990580e9b615aeebb1f.png",
+    "static/media/C++.png": "/Portfolio/static/media/C++.24a8f93854ab092f17a7.png",
+    "static/media/Million Arab Coders.png": "/Portfolio/static/media/Million Arab Coders.22459d25c7410ace9531.png",
+    "static/media/Java.png": "/Portfolio/static/media/Java.d2ff434287cb41497587.png",
+    "static/media/Sparks.png": "/Portfolio/static/media/Sparks.632a682a802beac9d941.png",
+    "static/media/C.png": "/Portfolio/static/media/C.564faee847547f5be8f1.png",
+    "static/media/Csharp.png": "/Portfolio/static/media/Csharp.d0c7960c6e24c4b7d729.png",
+    "static/media/MySQL.png": "/Portfolio/static/media/MySQL.9b2e69d9f282d06c66fe.png",
+    "static/media/Facebook.png": "/Portfolio/static/media/Facebook.795fce8e464693d7346d.png",
+    "static/media/Udacity.png": "/Portfolio/static/media/Udacity.92f7118e301ef1674358.png",
+    "static/media/HTML.png": "/Portfolio/static/media/HTML.a0ff7842289e1ba206c2.png",
+    "static/media/CSS.png": "/Portfolio/static/media/CSS.6680d6eb6dfa685f57a5.png",
+    "static/media/Python.png": "/Portfolio/static/media/Python.3453437968782f6be8b4.png",
+    "static/media/JavaScript.png": "/Portfolio/static/media/JavaScript.3dfb665e058d08c99f28.png",
+    "static/media/stack.png": "/Portfolio/static/media/stack.dbba980280f83dd92a0e.png",
+    "index.html": "/Portfolio/index.html",
+    "main.ee0209ac.css.map": "/Portfolio/static/css/main.ee0209ac.css.map",
+    "main.ea2d13a4.js.map": "/Portfolio/static/js/main.ea2d13a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee0209ac.css",
+    "static/js/main.ea2d13a4.js"
+  ]
+}
