@@ -1,0 +1,31 @@
+.LeftSideBar
+{
+    width:2.5%;
+    height: 50%;
+
+    margin-top: 47px;;
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+ 
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.MediaIcon{
+    width:25px;
+}
+
+.MediaIcon:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+
+.LLine{
+    border-left:2px solid black ;
+    height: 40%;
+}

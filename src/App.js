@@ -1,23 +1,41 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { useEffect } from 'react';
+
+//Stylesheet
+import './Style/App.css'
+
+//Components
+import NavBar from './Components/NavBar';
+import LeftSideBar from './Components/LeftSideBar';
+import AboutMe from './Components/AboutMe';
+import RightSideBar from './Components/RightSideBar';
+import Achievments from './Components/Achievments';
+import Skills from './Components/Skills';
+import Projects from './Components/Projects';
+
 
 function App() {
+  useEffect(() => {
+    document.title = "Basma Elhoseny"
+  }, [])
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <NavBar />
+      <LeftSideBar />
+      <RightSideBar />
+      <div className="Body">
+        <AboutMe />
+        <div id='Achievements'>
+          <Achievments />
+        </div>
+        <div id="Skills">
+          <Skills />
+        </div>
+        <div id="Projects">
+          <Projects />
+        </div>
+      </div>
     </div>
   );
 }

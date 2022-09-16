@@ -1,0 +1,25 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.App {
+  text-align: center;
+}
+
+.Body{
+  margin-top:47px;;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#Achievements,#Skills,#Projects{
+  padding-top: 47px; 
+}

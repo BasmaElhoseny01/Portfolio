@@ -1,0 +1,38 @@
+.RightSideBar {
+    width: 2.5%;
+    height: 80%;
+
+    margin-top: 47px;
+
+
+    position: fixed;
+    right: 0;
+    bottom: 0;
+
+    
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.Gmail {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+
+    letter-spacing: 1.5px;
+    margin: 10px;
+}
+
+.Gmail a {
+    text-decoration: none;
+    color: black;
+}
+
+.RLine {
+    border-left: 2px solid black;
+    height: 30%;
+}
