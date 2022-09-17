@@ -5,7 +5,7 @@ This is my Portfolio Project built using React JS. It shows my achievements and 
 https://basmaelhoseny01.github.io/Portfolio/
 
 ## 🎥 Demo
-https://github.com/BasmaElhoseny01/Portfolio/blob/master/Portfolio%20Demo.mp4
+[https://github.com/BasmaElhoseny01/Portfolio/blob/master/Portfolio%20Demo.mp4](https://github.com/BasmaElhoseny01/Portfolio/blob/master/Portfolio%20Demo.mp4)
 
 ## 🔨Built Using
 <img height="40" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-1024.png" />
@@ -29,3 +29,6 @@ https://github.com/BasmaElhoseny01/Portfolio/blob/master/Portfolio%20Demo.mp4
 <li>run: npm start </li>
 </ol>
 DONE 😜
+
+## Note:
+This webpage isn't device responsive But I am on my first steps of learning advanced CSS and sass. I will modify it soon 😉
